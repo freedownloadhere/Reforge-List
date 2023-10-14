@@ -1,0 +1,368 @@
+{
+    
+    "special_prefixes":
+    [
+        "Very",
+        "Highly",
+        "Extremely",
+        "Not So",
+        "Thicc",
+        "Absolutely",
+        "Even More"
+    ],
+    "sword":
+    {
+        "blacksmith":
+        [
+            "Epic", 
+            "Fair", 
+            "Fast", 
+            "Gentle", 
+            "Heroic", 
+            "Legendary", 
+            "Odd", 
+            "Sharp", 
+            "Spicy"
+        ],
+        "reforge_stones":
+        [
+            {
+                "prefix": "Coldfused",
+                "stone": "Entropy Suppressor"
+            },
+            {
+                "prefix": "Dirty",
+                "stone": "Dirt Bottle"
+            },
+            {
+                "prefix": "Fabled",
+                "stone": "Dragon Claw"
+            },
+            {
+                "prefix": "Gilded",
+                "stone": "Midas Jewel"
+            },
+            {
+                "prefix": "Suspicious",
+                "stone": "Suspicious Vial"
+            },
+            {
+                "prefix": "Warped",
+                "stone": "Warped Stone"
+            },
+            {
+                "prefix": "Withered",
+                "stone": "Withered"
+            },
+            {
+                "prefix": "Bulky",
+                "stone": "Bulky Stone"
+            },
+            {
+                "prefix": "Jerry's",
+                "stone": "Jerry Stone"
+            },
+            {
+                "prefix": "Fanged",
+                "stone": "Full-Jaw Fanging Kit"
+            }
+        ]
+    },
+    "bow":
+    {
+        "blacksmith":
+        [
+            "Awkward",
+            "Deadly",
+            "Fine",
+            "Grand",
+            "Hasty",
+            "Neat",
+            "Rapid",
+            "Rich",
+            "Unreal"
+        ],
+        "reforge_stones":
+        [
+            {
+                "prefix": "Precise",
+                "stone": "Optical Lens"
+            },
+            {
+                "prefix": "Spiritual",
+                "stone": "Spirit Stone"
+            },
+            {
+                "prefix": "Headstrong",
+                "stone": "Salmon Opal"
+            }
+        ]
+    },
+    "armor":
+    {
+        "blacksmith":
+        [
+            "Clean",
+            "Fierce",
+            "Heavy",
+            "Light",
+            "Mythic",
+            "Pure",
+            "Titanic",
+            "Smart",
+            "Wise"
+        ],
+        "reforge_stones":
+        [
+            {
+                "prefix": "Candied",
+                "stone": "Candy Corn"
+            },
+            {
+                "prefix": "Submerged",
+                "stone": "Deep Sea Orb"
+            },
+            {
+                "prefix": "Perfect",
+                "stone": "Diamond Atom"
+            },
+            {
+                "prefix": "Renowned",
+                "stone": "Dragon Horn"
+            },
+            {
+                "prefix": "Spiked",
+                "stone": "Dragon Scale"
+            },
+            {
+                "prefix": "Hyper",
+                "stone": "End Stone Geode"
+            },
+            {
+                "prefix": "Giant",
+                "stone": "Giant Tooth"
+            },
+            {
+                "prefix": "Jaded",
+                "stone": "Jaderald"
+            },
+            {
+                "prefix": "Cubic",
+                "stone": "Molten Cube"
+            },
+            {
+                "prefix": "Necrotic",
+                "stone": "Necromancer's Brooch"
+            },
+            {
+                "prefix": "Empowered",
+                "stone": "Sadan's Brooch"
+            },
+            {
+                "prefix": "Ancient",
+                "stone": "Precursor Gear"
+            },
+            {
+                "prefix": "Undead",
+                "stone": "Premium Flesh"
+            },
+            {
+                "prefix": "Loving",
+                "stone": "Red Scarf"
+            },
+            {
+                "prefix": "Ridiculous",
+                "stone": "Red Nose"
+            },
+            {
+                "prefix": "Bustling",
+                "stone": "SkyMart Brochure"
+            },
+            {
+                "prefix": "Mossy",
+                "stone": "Overgrown Grass"
+            },
+            {
+                "prefix": "Festive",
+                "stone": "Frozen Bauble"
+            }
+        ]
+    },
+    "equipment":
+    {
+        "blacksmith":
+        [
+            
+        ],
+        "reforge_stones":
+        [
+            {
+                "prefix": "Glistening",
+                "stone": "Shiny Prism"
+            },
+            {
+                "prefix": "Strengthened",
+                "stone": "Searing Stone"
+            },
+            {
+                "prefix": "Waxed",
+                "stone": "Blaze Wax"
+            },
+            {
+                "prefix": "Fortified",
+                "stone": "Meteor Shard"
+            },
+            {
+                "prefix": "Rooted",
+                "stone": "Burrowing Spores"
+            },
+            {
+                "prefix": "Blooming",
+                "stone": "Flowering Bouquet"
+            },
+            {
+                "prefix": "Snowy",
+                "stone": "Terry's Snowglobe"
+            },
+            {
+                "prefix": "Blood-Soaked",
+                "stone": "Presumed Gallon Of Red Paint"
+            }
+        ]
+    },
+    "fishing_rod":
+    {
+        "blacksmith":
+        [
+            
+        ],
+        "reforge_stones":
+        [
+            {
+                "prefix": "Salty",
+                "stone": "Salt Cube"
+            },
+            {
+                "prefix": "Treacherous",
+                "stone": "Rusty Anchor"
+            },
+            {
+                "prefix": "Lucky",
+                "stone": "Lucky Dice"
+            },
+            {
+                "prefix": "Stiff",
+                "stone": "Hardened Wood"
+            },
+            {
+                "prefix": "Chomp",
+                "stone": "Kuudra Mandible"
+            },
+            {
+                "prefix": "Pitchin'",
+                "stone": "Pitchin' Koi"
+            }
+        ]
+    },
+    "pickaxe":
+    {
+        "blacksmith":
+        [
+            "Unyielding",
+            "Prospector's",
+            "Excellent",
+            "Sturdy",
+            "Fortunate"
+        ],
+        "reforge_stones":
+        [
+            {
+                "prefix": "Ambered",
+                "stone": "Amber Material"
+            },
+            {
+                "prefix": "Auspicious",
+                "stone": "Rock Gemstone"
+            },
+            {
+                "prefix": "Fleet",
+                "stone": "Diamonite"
+            },
+            {
+                "prefix": "Heated",
+                "stone": "Hot Stuff"
+            },
+            {
+                "prefix": "Magnetic",
+                "stone": "Lapis Crystal"
+            },
+            {
+                "prefix": "Mithraic",
+                "stone": "Pure Mithril"
+            },
+            {
+                "prefix": "Refined",
+                "stone": "Refined Amber"
+            },
+            {
+                "prefix": "Stellar",
+                "stone": "Petrified Starfall"
+            },
+            {
+                "prefix": "Fruitful",
+                "stone": "Onyx"
+            }
+        ]
+    },
+    "axe":
+    {
+        "blacksmith":
+        [
+            "Great",
+            "Rugged",
+            "Lush",
+            "Lumberjack's",
+            "Double-Bit"
+        ],
+        "reforge_stones":
+        [
+            {
+                "prefix": "Moil",
+                "stone": "Moil Log"
+            },
+            {
+                "prefix": "Toil",
+                "stone": "Toil Log"
+            },
+            {
+                "prefix": "Blessed",
+                "stone": "Blessed Fruit"
+            },
+            {
+                "prefix": "Earthy",
+                "stone": "Large Walnut"
+            }
+        ]
+    },
+    "hoe":
+    {
+        "blacksmith":
+        [
+            "Robust",
+            "Zooming",
+            "Peasant's",
+            "Green Thumb"   
+        ],
+        "reforge_stones":
+        [
+            {
+                "prefix": "Blessed",
+                "stone": "Blessed Fruit"
+            },
+            {
+                "prefix": "Bountiful",
+                "stone": "Golden Ball"
+            }
+        ]
+    }
+}
